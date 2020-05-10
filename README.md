@@ -135,3 +135,6 @@ There is a GLPI version typical lifecycle:
  * Several months after major version realesed, a new major version (9.4) is released
    Previous major versions become unsupported, please update to the new major version.
    Obviously, we provide support for the migration tools too!
+
+Adrien 1
+    Yes Yes Yes.
